@@ -7,11 +7,11 @@ Bu uygulama taş-kağıt-makas uygulamasının arayüzlü versiyonudur.
 
 ### Örnek Resimler
 
-![Açılış Ekranı](https://github.com/Hamza-Eren/MatchingApp/blob/main/screenshot/start.jpeg)
-> `Seviye seçme ekranı` (C1 ve C2 eklenicektir.)
+![Açılış Ekranı](https://github.com/Hamza-Eren/Rock-Paper-Scissors/blob/main/screenshot/start.jpeg)
+> `Açılış ekranı (Seçim yapacağınız kısım)`
 ---
-![Uygulama Ekranı](https://github.com/Hamza-Eren/MatchingApp/blob/main/screenshot/game.jpeg)
-> `Seçtiğiniz seviyeye göre oyun ekranı`
+![Uygulama Ekranı](https://github.com/Hamza-Eren/Rock-Paper-Scissors/blob/main/screenshot/game.jpeg)
+> `Oyun ekranı (PC'nin seçim yaptığı kısım)`
 ---
-![Oyun Sonu Ekranı](https://github.com/Hamza-Eren/MatchingApp/blob/main/screenshot/end.jpeg)
-> `Oyun sonu ekranı`
+![Oyun Sonu Ekranı](https://github.com/Hamza-Eren/Rock-Paper-Scissors/blob/main/screenshot/end.jpeg)
+> `Oyun sonu ekranı (Sonucu gösteren kısım)`
