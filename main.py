@@ -130,6 +130,7 @@ def Restart():
 app = Tk()
 app.title("Rock - Paper - Scissors")
 app.configure(bg="#444")
+app.iconbitmap(r"images/icon.ico")
 app.geometry("360x280")
 app.resizable(0, 0)
 
