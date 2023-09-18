@@ -100,7 +100,15 @@ def Result():
             
 
 def Exit():
-    app.destroy()
+    global VALUE
+    app.attributes("-alpha", VALUE)
+    
+    if VALUE > 0:
+        VALUE -= 0.1
+        app.after(50, Exit)
+        
+    else:
+        app.destroy()
 
 
 def Restart():
