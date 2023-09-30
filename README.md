@@ -5,7 +5,7 @@
 ## Açıklama:
 Bu uygulama taş-kağıt-makas uygulamasının arayüzlü versiyonudur. 
 
-### Örnek Resimler
+## Örnek Resimler
 
 ![Açılış Ekranı](https://github.com/Hamza-Eren/Rock-Paper-Scissors/blob/main/screenshot/start.jpeg)
 > `Açılış ekranı (Seçim yapacağınız kısım)`
