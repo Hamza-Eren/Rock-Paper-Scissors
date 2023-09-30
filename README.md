@@ -2,7 +2,7 @@
 * tkinter
 * random
 
-### Açıklama:
+## Açıklama:
 Bu uygulama taş-kağıt-makas uygulamasının arayüzlü versiyonudur. 
 
 ### Örnek Resimler
